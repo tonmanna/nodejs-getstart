@@ -17,6 +17,6 @@ class Superman {
     }
 }
 
-//export { Superman } es6
+//export { Superman }
 //exports = module.exports;
 module.exports = Superman;
